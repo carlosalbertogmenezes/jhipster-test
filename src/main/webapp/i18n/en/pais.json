@@ -1,0 +1,19 @@
+{
+    "jhipsterApp": {
+        "pais" : {
+            "home": {
+                "title": "Paiss",
+                "createLabel": "Create a new Pais",
+                "createOrEditLabel": "Create or edit a Pais"
+            },
+            "delete": {
+                "question": "Are you sure you want to delete Pais {{ id }}?"
+            },
+            "detail": {
+                "title": "Pais"
+            },
+            "nome": "Nome",
+            "estados": "estados"
+        }
+    }
+}
